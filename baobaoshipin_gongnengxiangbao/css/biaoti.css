@@ -1,0 +1,115 @@
+*{margin:0;
+padding:0;}
+
+.dabiaoti{
+	margin-left: 0%;
+	margin-right: 0%;
+	margin-top: 0.5%;
+	margin-bottom: 0%;
+	
+}
+.disexian{
+	margin-left: 0%;
+	margin-right: 0%;
+	margin-top: 0%;
+	margin-bottom: 0%;
+	
+}
+.zuobiankuang{
+	margin-left: 0%;
+	margin-right: 0%;
+	margin-top:-0.5%;
+	margin-bottom: 0%;
+	
+}
+.zuobiankuangzi{
+	margin-left: -83%;
+	margin-right: 0%;
+	margin-top: -130%;
+	margin-bottom: 0%;
+	
+}
+.biankuang{
+	margin-left: 22%;
+	margin-right: 0%;
+	margin-top: -128%;
+	margin-bottom: 0%;
+	
+}
+.miyo{
+	margin-left:28%;
+	margin-right: 0%;
+	margin-top: -18%;
+	margin-bottom: 0%;
+	
+}
+.miyozi{
+	margin-left: 38%;
+	margin-right: 0%;
+	margin-top: -13%;
+	margin-bottom: 0%;
+	
+}
+.biankuang1{
+	margin-left: 22%;
+	margin-right: 0%;
+	margin-top:7%;
+	margin-bottom:0%;
+}
+.bulaimei{
+	margin-left: 28%;
+	margin-right: 0%;
+	margin-top: -18%;
+	margin-bottom: 0%;
+	
+}
+.bulaimeizi{
+	margin-left: 38%;
+	margin-right: 0%;
+	margin-top: -13%;
+	margin-bottom: 0%;
+	
+}
+.biankuang2{
+	margin-left: 22%;
+	margin-right: 0%;
+	margin-top:-80%;
+	margin-bottom:0%;
+}
+.aobaote{
+	margin-left: 28%;
+	margin-right: 0%;
+	margin-top: -73%;
+	margin-bottom: 0%;
+	
+}
+.aobaotezi{
+	margin-left: 36%;
+	margin-right: 0%;
+	margin-top: -75%;
+	margin-bottom: 0%;
+	
+}
+
+.diye{
+	margin-left: 0%;
+	margin-right: 0%;
+	margin-top: 2%;
+	margin-bottom: 0%;
+	
+}
+.diyezi{
+	margin-left:50%;
+	margin-right: 0%;
+	margin-top: -8%;
+	margin-bottom: 0%;
+	
+}
+.full-width {
+  grid-column: 1 / -1;
+}
+
+       .container {
+  display: grid;
+  justify-content: center;
+}
