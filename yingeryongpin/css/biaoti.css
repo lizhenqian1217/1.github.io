@@ -1,0 +1,134 @@
+*{margin:0;
+padding:0;}
+
+.dabiaoti{
+	margin-left: 0%;
+	margin-right: 0%;
+	margin-top: 0.5%;
+	margin-bottom: 0%;
+	
+}
+.disexian{
+	margin-left: 0%;
+	margin-right: 0%;
+	margin-top: 0%;
+	margin-bottom: 0%;
+	
+}
+.zuobiankuang{
+	margin-left: 0%;
+	margin-right: 0%;
+	margin-top:-0.5%;
+	margin-bottom: 0%;
+	
+}
+.zuobiankuangzi{
+	margin-left: -83%;
+	margin-right: 0%;
+	margin-top: -128%;
+	margin-bottom: 0%;
+	
+}
+.biankuang{
+	margin-left: 22%;
+	margin-right: 0%;
+	margin-top: -129%;
+	margin-bottom: 0%;
+	
+}
+.pipigou{
+	margin-left:28%;
+	margin-right: 0%;
+	margin-top: -19%;
+	margin-bottom: 0%;
+	
+}
+.pipigouzi{
+	margin-left: 38%;
+	margin-right: 0%;
+	margin-top: -13%;
+	margin-bottom: 0%;
+	
+}
+.biankuang1{
+	margin-left: 22%;
+	margin-right: 0%;
+	margin-top:4%;
+	margin-bottom:0%;
+}
+.tianle{
+	margin-left: 30%;
+	margin-right: 0%;
+	margin-top: -18%;
+	margin-bottom: 0%;
+	
+}
+.tianlezi{
+	margin-left: 38%;
+	margin-right: 0%;
+	margin-top: -13%;
+	margin-bottom: 0%;
+	
+}
+.biankuang2{
+	margin-left: 22%;
+	margin-right: 0%;
+	margin-top:-83%;
+	margin-bottom:0%;
+}
+.erchubao{
+	margin-left: 30%;
+	margin-right: 0%;
+	margin-top: -76%;
+	margin-bottom: 0%;
+	
+}
+.erchubaozi{
+	margin-left: 36%;
+	margin-right: 0%;
+	margin-top: -77%;
+	margin-bottom: 0%;
+	
+}
+.biankuang3{
+	margin-left: 23%;
+	margin-right: 0%;
+	margin-top:-58%;
+	margin-bottom:0%;
+}
+.qingwawangzi{
+	margin-left: 30%;
+	margin-right: 0%;
+	margin-top: -18%;
+	margin-bottom: 0%;
+	
+}
+.qingwawangzizi{
+	margin-left: 38%;
+	margin-right: 0%;
+	margin-top: -13%;
+	margin-bottom: 0%;
+	
+}
+.diye{
+	margin-left: 0%;
+	margin-right: 0%;
+	margin-top: 45%;
+	margin-bottom: 0%;
+	
+}
+.diyezi{
+	margin-left:50%;
+	margin-right: 0%;
+	margin-top: -8%;
+	margin-bottom: 0%;
+	
+}
+.full-width {
+  grid-column: 1 / -1;
+}
+
+       .container {
+  display: grid;
+  justify-content: center;
+}
